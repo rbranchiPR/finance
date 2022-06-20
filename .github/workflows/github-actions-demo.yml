@@ -1,4 +1,4 @@
-name: GitHub Actions PyTest Demo and sequence
+name: GitHub Actions PyTest Demo and sequence and deployment
 on: 
   push:
     branches-ignore: [main, QA, dev, stage]
