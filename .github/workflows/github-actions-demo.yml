@@ -1,4 +1,4 @@
-name: GitHub Actions PyTest Demo and sequence and deployment to Heroku
+name: GitHub Actions PyTest Demo and sequence and deployment to Heroku - Vamonos Finance
 on: 
   push:
     branches-ignore: [main, QA, dev, stage]
