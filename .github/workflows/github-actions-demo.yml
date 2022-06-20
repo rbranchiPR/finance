@@ -1,4 +1,4 @@
-name: GitHub Actions PyTest Demo and sequence and deployment
+name: GitHub Actions PyTest Demo and sequence and deployment to Heroku
 on: 
   push:
     branches-ignore: [main, QA, dev, stage]
